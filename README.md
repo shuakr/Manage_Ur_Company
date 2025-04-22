@@ -1,39 +1,39 @@
-🚀 ManageUrCompany
-Bir Şirket Yönetim Web Uygulaması
+ManageUrCompany
+A Web-Based Company Management Application
 
-📌 Proje Hakkında
-ManageUrCompany, şirket sahiplerinin kendi çalışanlarını daha kolay yönetebilmesini sağlamak amacıyla geliştirilmiş sade, anlaşılır ve kullanışlı bir web uygulamasıdır.
+📌 About the Project
+ManageUrCompany is a simple, user-friendly, and responsive web application designed to help company owners manage their employees more efficiently.
 
-Bu proje sadece HTML, CSS ve JavaScript teknolojileri kullanılarak geliştirilmiştir. Her cihazda sorunsuz çalışacak şekilde responsive (duyarlı) tasarlanmıştır.
+The application is built entirely using HTML, CSS, and JavaScript, and it works smoothly across all devices.
 
-🔧 Özellikler
-📋 Çalışan Listesi:
-Tüm çalışanların isimleri, pozisyonları, aktiflik durumları ve maaş bilgileri görüntülenebilir.
+🔧 Features
+📋 Employee List:
+View all employees with details like name, position, status, and salary.
 
-🔄 Çalışan Düzenleme:
-Çalışanların pozisyonları ve maaş bilgileri admin (şirket sahibi) tarafından düzenlenebilir.
+🔄 Edit Employees:
+Admin (company owner) can update employee positions and salaries.
 
-✅ Aktiflik Durumu:
-Her çalışanın güncel olarak çalışıp çalışmadığı durumu gösterilir.
+✅ Activity Status:
+Shows whether each employee is currently working or not.
 
-🏭 Çalışma Bölümleri:
-Şirketin farklı çalışma alanları (örneğin: Demir Döküm, Şekillendirme vb.) tanımlanabilir.
+🏭 Departments:
+Define different work areas (e.g., Iron Casting, Shaping, etc.).
 
-🔒 Yetkilendirme:
-Bazı bilgiler sadece admin (şirket sahibi) tarafından görülebilir ve değiştirilebilir.
+🔒 Role-Based Access:
+Certain data is only visible and editable by the admin.
 
-👤 Kullanıcı Profilleri:
-Çalışan profilleri genel olarak herkese açık olsa da, bazı özel alanlar yalnızca admin tarafından erişilebilir.
+👤 Public Profiles:
+Employee profiles are visible to everyone except for restricted data.
 
-📱 Responsive Tasarım:
-Mobil, tablet ve masaüstü cihazlarda sorunsuz çalışacak şekilde optimize edilmiştir.
+📱 Responsive Design:
+Fully optimized for desktop, tablet, and mobile devices.
 
-🛠️ Kullanılan Teknolojiler
+🛠️ Technologies Used
 ## HTML5 
-    – Sayfa yapısı ve içerik
+    – Page structure and content
 
-## CSS 
-    – Görsel tasarım ve responsive yapı
+## CSS3 
+    – Styling and layout
 
-## JavaScript 
-    – Etkileşimler, veri kontrolü ve kullanıcı işlemleri
+## JavaScript (Vanilla) 
+    – Interactivity and logic
